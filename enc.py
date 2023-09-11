@@ -2,7 +2,6 @@ import json
 
 input_file_path = "ini.json" 
 output_file_path = "ini2.json"
-output_file_path_de = "de_ini2.json"
 
 try:
     with open(input_file_path, "r") as input_file:
@@ -64,12 +63,6 @@ except Exception as e:
     print(f"Error occurred while writing to the output JSON file: {str(e)}")
     exit(1)
 
-try:
-    with open(output_file_path_de, "w") as output_file:
-        json.dump(encrypted_json, output_file, indent=2)  # Indent for pretty formatting
-except Exception as e:
-    print(f"Error occurred while writing to the output JSON file: {str(e)}")
-    exit(1)
 
 
 print(f"Processed JSON data saved to '{output_file_path}' successfully.")
