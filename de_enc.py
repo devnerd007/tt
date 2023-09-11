@@ -62,5 +62,5 @@ except Exception as e:
     exit(1)
 
 
-print(f"Processed JSON data saved to '{output_file_path}' successfully.")
+print(f"Processed JSON data saved to '{output_file_path_de}' successfully.")
 
