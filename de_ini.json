@@ -29,5 +29,7 @@
   "l_m" : [],
   "tit1": "IND vs PAK Live",
   "no" : "Hello Everyone! Enjoy",
-  "ex_a" : true
+  "ex_a" : true,
+  "version": 4,
+  "f_update": true
 }
