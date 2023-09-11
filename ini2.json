@@ -6,28 +6,31 @@
   "l_s": [
     {
       "nn": "",
-      "uu": "qccy://203.80.191.3:8089/sjvrx/cbyxacbkm//yujhurbc.v3d8",
-      "a": false
-    },
-    {
-      "nn": "",
-      "uu": "qccy://203.80.191.3:8089/sjvrx/pjirce//lqdwtb.v3d8",
-      "a": false
-    },
-    {
-      "nn": "",
       "uu": "qccyb://urenwoubcanjv.ghi/yujhurbc/bcanjv_bb_larltnc.v3d8?tnh=byxacb-xy",
-      "a": false
+      "a": true
     },
     {
-      "nn": "Sjfjw",
-      "uu": "qccy://mjcj.bynnm4hxd.wnc/Anzdnbcnm/Sjfjw%20(2023)/Sjfjw%20(2023).vte",
-      "a": false
+      "nn": "",
+      "uu": "qqccyb://urenwoubcanjv.ghi/yujhurbc/bcanjv_bb_larltnc.v3d8",
+      "a": true
+    },
+    {
+      "nn": "",
+      "uu": "qccyb://fnkyaxgrornab.xwurwn/yujhurbc/bcanjv_n2.v3d8",
+      "a": true
     }
   ],
-  "l_t": [],
+  "l_t": [
+    {
+      "nn": "",
+      "uu": "http://203.80.191.3:8089/jamio/tsportsbd//playlist.m3u8",
+      "a": true
+    }
+  ],
   "l_m": [],
-  "tit1": "Fjclq Uren Nenwcb",
+  "tit1": "RWM eb YJT Uren",
   "no": "Hello Everyone! Enjoy",
-  "ex_a": false
+  "ex_a": true,
+  "version": 4,
+  "f_update": false
 }
