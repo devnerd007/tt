@@ -9,14 +9,20 @@
       "uu" : "https://livenflstream.xyz/playlist/stream_ss_cricket.m3u8?key=sports-op",
       "a" : true
     },
-    {
-      "nn" : "",
-      "uu" : "hhttps://livenflstream.xyz/playlist/stream_ss_cricket.m3u8",
-      "a" : true
-    },
+    
     {
       "nn" : "",
       "uu" : "https://webproxifiers.online/playlist/stream_e2.m3u8",
+      "a" : true
+    },
+    {
+      "nn" : "GTV (Speednet user)",
+      "uu" : "http://speed4you.net:8080/hls/Gazi-TV.m3u8",
+      "a" : true
+    },
+    {
+      "nn" : "Stars ports2 (Speednet user)",
+      "uu" : "http://speed4you.net:8080/hls/starsports2.m3u8",
       "a" : true
     }
   ],
