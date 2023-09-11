@@ -1,0 +1,33 @@
+{
+  "banner" : [
+    "https://raw.githubusercontent.com/devnerd007/tt/main/b/banner_1.png",
+    "https://raw.githubusercontent.com/devnerd007/tt/main/b/banner_2.png"
+  ],
+  "l_s" : [
+    {
+      "nn" : "",
+      "uu" : "http://203.80.191.3:8089/jamio/tsportsbd//playlist.m3u8",
+      "a" : false
+    },
+    {
+      "nn" : "",
+      "uu" : "http://203.80.191.3:8089/jamio/gazitv//chunks.m3u8",
+      "a" : false
+    },
+    {
+      "nn" : "",
+      "uu" : "https://livenflstream.xyz/playlist/stream_ss_cricket.m3u8?key=sports-op",
+      "a" : false
+    },
+    {
+      "nn" : "Jawan",
+      "uu" : "http://data.speed4you.net/Requested/Jawan%20(2023)/Jawan%20(2023).mkv",
+      "a" : false
+    }
+  ],
+  "l_t" : [],
+  "l_m" : [],
+  "tit1": "Watch Live Events",
+  "no" : "Hello Everyone! Enjoy",
+  "ex_a" : false
+}

@@ -1,6 +1,6 @@
 import json
 
-input_file_path = "ini.json" 
+input_file_path = "de_ini.json" 
 output_file_path_de = "de_ini2.json"
 
 try:
