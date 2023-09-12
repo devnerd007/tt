@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cd /Users/sudarshaana/Desktop/tt
 # Step 1: Run the Python script (enc.py) using python3
 python3 enc.py
 
