@@ -40,6 +40,11 @@ def encrypt_uu(json_data, key):
         item["uu"] = caesar_cipher(item["uu"], key)
         item["nn"] = caesar_cipher(item["nn"], key)
 
+
+    for item in encrypted_json.get("broadband_link"):
+        item["uu"] = caesar_cipher(item["uu"], key)
+        item["nn"] = caesar_cipher(item["nn"], key)
+
     encrypted_json["tit1"] = caesar_cipher(encrypted_json["tit1"], key)
 
 

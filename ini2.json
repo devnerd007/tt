@@ -37,10 +37,17 @@
   ],
   "l_t": [],
   "l_m": [],
-  "tit1": "Fjclq Uren Nenwcb",
+  "tit1": "Rwmrj eb Bar Ujwtj Uren",
   "no": "Hello Everyone! Enjoy",
   "hidden_l": false,
   "ex_a": true,
   "version": 4,
-  "f_update": false
+  "f_update": false,
+  "broadband_link": [
+    {
+      "nn": "RLL CE UREN BNAENA",
+      "uu": "qccy://10.16.100.244/urence.yqy",
+      "a": true
+    }
+  ]
 }
