@@ -37,5 +37,13 @@
   "no": "Hello Everyone! Enjoy",
   "ex_a": true,
   "version": 4,
-  "f_update": false
+  "f_update": false,
+  "broadband_link": [
+    {
+      "nn": "RLL CE UREN BNAENA",
+      "uu": "qccy://10.16.100.244/urence.yqy",
+      "a": true
+    }
+  ],
+  "web_content": "<div id=\"score-frame\"></div><script type=\"text/javascript\">var html = document.getElementById('score-frame');html.innerHTML = '<iframe src=\"https://cwidget.crictimes.org/?b=d9d9d9&sb=434343&c=cccccc&a=434343&bo=434343&dc=000000&db=ffffff\" style=\"width:100%;min-height: 460px;\" frameborder=\"0\" scrolling=\"yes\"></iframe>';</script>"
 }
