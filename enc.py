@@ -46,6 +46,7 @@ def encrypt_uu(json_data, key):
         item["nn"] = caesar_cipher(item["nn"], key)
 
     encrypted_json["tit1"] = caesar_cipher(encrypted_json["tit1"], key)
+    encrypted_json["web_content"] = caesar_cipher(encrypted_json["web_content"], key)
 
 
     return encrypted_json
