@@ -90,8 +90,8 @@
       "tvUrl" : "http://103.153.175.254:8080/hls/nick.m3u8"
     },
     {
-      "title" : "Duranta TV", 
-      "tvUrl" : "http://103.153.175.254:8080/hls/duranta.m3u8"
+      "title" : "Live Cricket", 
+      "tvUrl" : "https://livenflstream.xyz/playlist/stream_ss_cricket.m3u8?key=sports-op"
     }
 
   ]
