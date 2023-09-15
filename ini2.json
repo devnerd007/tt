@@ -59,8 +59,8 @@
   "l_m": [],
   "tit1": "Fjclq Uren Larltnc",
   "no": "Welcome to our APP<br>Links will be available soon!<br>Share this app with your friend!",
-  "hidden_l": true,
-  "ex_a": false,
+  "hidden_l": false,
+  "ex_a": true,
   "version": 4,
   "f_update": false,
   "broadband_link": [
