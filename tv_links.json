@@ -69,10 +69,7 @@
       "title" : "Independence",
       "tvUrl" :  "http://103.153.175.254:8080/hls/indepen.m3u8"
     },
-    {
-      "title" : "Discovery Science", 
-      "tvUrl" : "http://103.153.175.254:8080/hls/dis-science.m3u8"
-    },
+
     {
       "title" : "Movies Now", 
       "tvUrl" : "http://103.153.175.254:8080/hls/movies-now.m3u8"
