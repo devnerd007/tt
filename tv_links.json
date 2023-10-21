@@ -85,6 +85,10 @@
     {
       "title" : "NICK", 
       "tvUrl" : "http://speed4you.net:8080/hls/nick.m3u8"
+    },
+    {
+      "title" : "Live Cricket", 
+      "tvUrl" : "https://m2.ballnaja.com:8443/ASTRO_CRICKET/tracks-v1a1/mono.m3u8"
     }
 
   ]
