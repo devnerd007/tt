@@ -1,10 +1,10 @@
 {
   "links" : [
     {
-      "title" : "STAR Sports 3", 
-      "tvUrl" : "http://speed4you.net:8080/hls/5019.m3u8"
+      "title" : "জি বাংলা ", 
+      "tvUrl" : "http://speed4you.net:8080/hls/5048.m3u8"
     },
-      {
+    {
       "title" : "STAR Sports 1", 
       "tvUrl" : "http://speed4you.net:8080/hls/5052.m3u8"
     },
@@ -16,14 +16,9 @@
       "title" : "স্টার জলসা ", 
       "tvUrl" : "http://speed4you.net:8080/hls/5053.m3u8"
     },
-
     {
       "title" : "কালারস বাংলা ", 
       "tvUrl" : "http://speed4you.net:8080/hls/5047.m3u8"
-    },
-    {
-      "title" : "জি বাংলা ", 
-      "tvUrl" : "http://speed4you.net:8080/hls/5048.m3u8"
     },
     {
       "title" : "সনি আট", 
@@ -31,15 +26,15 @@
     },
     {
       "title" : "Colors Cinema", 
-      "tvUrl" : "http://speed4you.net:8080/hls/colore-bangla-cinema.m3u8"
+      "tvUrl" : "http://speed4you.net:8080/hls/5033.m3u8"
     },
     {
       "title" : "Nation Geography", 
-      "tvUrl" : "http://speed4you.net:8080/hls/ngohd.m3u8"
+      "tvUrl" : "http://speed4you.net:8080/hls/5036.m3u8"
     },
     {
       "title" : "Animal Planet", 
-      "tvUrl" : "http://speed4you.net:8080/hls/animalplanent.m3u8"
+      "tvUrl" : "http://speed4you.net:8080/hls/5025.m3u8"
     },
     {
       "title" : "Wild", 
@@ -47,54 +42,32 @@
     },
     {
       "title" : "Discovery", 
-      "tvUrl" : "http://speed4you.net:8080/hls/discovery.m3u8"
+      "tvUrl" : "http://speed4you.net:8080/hls/5026.m3u8"
     },
     {
       "title" : "BBC Earth", 
-      "tvUrl" : "http://speed4you.net:8080/hls/bbcearth.m3u8"
+      "tvUrl" : "http://speed4you.net:8080/hls/5038.m3u8"
     },
     {
       "title" : "STAR Sports 3", 
-      "tvUrl" : "http://speed4you.net:8080/hls/starsports3.m3u8"
-    },
-    {
-      "title" : "Select HD", 
-      "tvUrl" : "http://speed4you.net:8080/hls/Star_Sport_Select1HD.m3u8"
-    },
-    {
-      "title" : "সময় নিউজ",
-      "tvUrl" :  "http://speed4you.net:8080/hls/somoy.m3u8"
-    },
-    {
-      "title" : "Channel i", 
-      "tvUrl" : "http://speed4you.net:8080/hls/channeli.m3u8"
-    },
-    {
-      "title" : "Independence",
-      "tvUrl" :  "http://speed4you.net:8080/hls/indepen.m3u8"
+      "tvUrl" : "http://speed4you.net:8080/hls/5019.m3u8"
     },
 
     {
-      "title" : "Movies Now", 
-      "tvUrl" : "http://speed4you.net:8080/hls/movies-now.m3u8"
+      "title" : "সময় নিউজ",
+      "tvUrl" :  "http://speed4you.net:8080/hls/4010.m3u8"
     },
     {
-      "title" : "Sonypix HD", 
-      "tvUrl" : "http://speed4you.net:8080/hls/sonypixhd.m3u8"
+      "title" : "Channel i", 
+      "tvUrl" : "http://speed4you.net:8080/hls/4016.m3u8"
     },
     {
-      "title" : "Star Movies", 
-      "tvUrl" : "http://speed4you.net:8080/hls/starmovies.m3u8"
+      "title" : "Independence",
+      "tvUrl" :  "http://speed4you.net:8080/hls/4008.m3u8"
     },
-    {
-      "title" : "NICK", 
-      "tvUrl" : "http://speed4you.net:8080/hls/nick.m3u8"
-    }
-    ,
-    {
-      "title" : "T-Sports", 
-      "tvUrl" : "http://103.79.182.246/hls/test.m3u8"
-    }
+
+
+
 
   ]
 }
