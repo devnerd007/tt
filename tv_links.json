@@ -1,10 +1,6 @@
 {
-  "links" : [
-{
-      "title" : "Belashuru", 
-      "tvUrl" : "http://data.speed4you.net/Bangla%20Movies/Indian%20Bangla%20Movies/2022/Belashuru%20(2022)/Belashuru%20(2022).mkv"
-    },    
-{
+  "links" : [  
+    {
       "title" : "জি বাংলা ", 
       "tvUrl" : "http://speed4you.net:8080/hls/5048.m3u8"
     },
@@ -19,6 +15,10 @@
     {
       "title" : "স্টার জলসা ", 
       "tvUrl" : "http://speed4you.net:8080/hls/5053.m3u8"
+    },
+    {
+      "title" : "Live Tv 1", 
+      "tvUrl" : "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index375.m3u8"
     },
     {
       "title" : "কালারস বাংলা ", 
