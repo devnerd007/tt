@@ -1,7 +1,7 @@
 {
   "links" : [  
     {
-      "title" : "জলসা Movie", 
+      "title" : "জলসা মুভিস", 
       "tvUrl" : "http://speed4you.net:8080/hls/zeemovie.m3u8"
     },
     {
@@ -17,7 +17,7 @@
       "tvUrl" : "http://speed4you.net:8080/hls/starJalsha.m3u8"
     },
     {
-      "title" : "স্টার জলসা ", 
+      "title" : "সনি স্পোর্টস ২", 
       "tvUrl" : "http://speed4you.net:8080/hls/sony10.m3u8"
     }
   
