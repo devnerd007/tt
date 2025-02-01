@@ -1,24 +1,28 @@
 {
   "links" : [  
     {
-      "title" : "জলসা মুভিস", 
-      "tvUrl" : "http://speed4you.net:8080/hls/zeemovie.m3u8"
+      "title" : "BPL", 
+      "tvUrl" : "http://10.20.30.30:6969/Sports-1/tracks-v1a1/mono.ts.m3u8?token=cdmax101010earth"
     },
     {
-      "title" : "TSports", 
-      "tvUrl" : "http://speed4you.net:8080/hls/tsports.m3u8"
+      "title" : "Channel 24", 
+      "tvUrl" : "http://10.20.30.30:6969/News-1/tracks-v1a1/mono.ts.m3u8?token=cdmax101010earth"
     },
     {
-      "title" : "জি বাংলা ", 
-      "tvUrl" : "http://speed4you.net:8080/hls/zeebangla.m3u8"
+      "title" : "Animal Plannet", 
+      "tvUrl" : "http://10.20.30.30:6969/Documentary-2/tracks-v1a1/mono.ts.m3u8?token=cdmax101010earth"
     },
     {
-      "title" : "স্টার জলসা ", 
-      "tvUrl" : "http://speed4you.net:8080/hls/starJalsha.m3u8"
+      "title" : "Love Nature", 
+      "tvUrl" : "http://10.20.30.30:6969/Documentary-1/tracks-v1a1/mono.ts.m3u8?token=cdmax101010earth"
     },
     {
-      "title" : "সনি স্পোর্টস ২", 
-      "tvUrl" : "http://speed4you.net:8080/hls/sony10.m3u8"
+      "title" : "Moview HD", 
+      "tvUrl" : "http://10.20.30.30:6969/Movies-1/tracks-v1a1/mono.ts.m3u8?token=cdmax101010earth"
+    },
+    {
+      "title" : "Willow", 
+      "tvUrl" : "http://10.20.30.30:6969/Sports-2/tracks-v1a1/mono.ts.m3u8?token=cdmax101010earth"
     }
   
   ]
